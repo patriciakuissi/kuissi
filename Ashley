@@ -1,4 +1,3 @@
-this is my githut
 i love devops i will make six figure from it
 
 
@@ -9,7 +8,7 @@ i'm able to definir my self on couples tools on devops:
 linux: is operating system open source and free.
 in linux we have many command.
 docker: is contarisation tool user to reu a single contaner.
-docker compose is the tool that we use to run multiple microservises(containers)
+docker compose is the tool that we use to run multiple microservises
 kubernertesis a container orchestration tools 
   that is use to deploy multiple containers with zero 
   down time ,we can autoscale.
